@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://krisives.github.io
 title: Kristopher Ives
-tagline: A log of everyday life
-description: My awesome new site
+tagline: Cynical Ramblings of a Programmer
+description: My things
 paginate: 5
