@@ -1,7 +1,7 @@
 ---
 published: true
 title: Projects
-layout: post
+layout: page
 permalink: projects
 ---
 Here are some other projects I run
