@@ -1,0 +1,6 @@
+---
+published: true
+title: jbloomer 1.0.0
+layout: post
+---
+I wrote a simple bloom filter library called [jbloomer](https://github.com/krisives/jbloomer) under a BSD-like license that anyone is welcome to use. You can grab a JAR or just use the single [BloomFilter.java](https://github.com/krisives/jbloomer/blob/master/src/jbloomer/BloomFilter.java) file.
