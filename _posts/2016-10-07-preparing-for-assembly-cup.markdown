@@ -10,3 +10,5 @@ The contest will begin in November 2016. The VM spec is subject to change slight
 Check out the [asmcup/runtime](https://github.com/asmcup/runtime) for the VM, Compiler, and some other tools.
 
 More info soon once the Sandbox code is pushed so you can test your robot in a mock world.
+
+**EDIT** Just to be clear this is not my secret project! I'm still under NDA for that.
